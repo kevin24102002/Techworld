@@ -1,6 +1,6 @@
 .Banner{
     height: 77vh;
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/AI.jpeg);
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/good.jpg);
     background-size: cover; /* agar gambar tidak ke double - double */
     background-position: center;
 }
