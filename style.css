@@ -1,0 +1,26 @@
+.Banner{
+    height: 77vh;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(AI.jpeg);
+    background-size: cover; /* agar gambar tidak ke double - double */
+    background-position: center;
+}
+
+.banner-contain{
+    height: 100%;
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* untuk css slider */
+
+.slider{
+    background-color: #212529;
+    /* height: 80vh; */
+    color: white;
+}
+
+.bor{
+    border: solid;
+}
